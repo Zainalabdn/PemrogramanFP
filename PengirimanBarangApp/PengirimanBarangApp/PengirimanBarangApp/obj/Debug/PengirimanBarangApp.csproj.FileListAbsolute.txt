@@ -1,0 +1,28 @@
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\bin\Debug\PengirimanBarangApp.exe.config
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\bin\Debug\PengirimanBarangApp.exe
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\bin\Debug\PengirimanBarangApp.pdb
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.csproj.AssemblyReference.cache
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.Login.resources
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.Properties.Resources.resources
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.csproj.GenerateResource.cache
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.csproj.CoreCompileInputs.cache
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.exe
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.pdb
+D:\Pemrograman Lanjut\Final Project UAS\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.View.Home.resources
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\bin\Debug\PengirimanBarangApp.exe.config
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\bin\Debug\PengirimanBarangApp.exe
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\bin\Debug\PengirimanBarangApp.pdb
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.View.FrmEntryLaporan.resources
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.View.Home.resources
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.View.Kendaraan.resources
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.View.Laporan.resources
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.Login.resources
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.Properties.Resources.resources
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.View.Sopir.resources
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.View.Transaksi.resources
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.exe
+C:\Users\User\Downloads\PengirimanBarangApp\PengirimanBarangApp\PengirimanBarangApp\obj\Debug\PengirimanBarangApp.pdb
